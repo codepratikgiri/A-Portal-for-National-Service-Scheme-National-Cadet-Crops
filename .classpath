@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/java programs/batch38workspace/Infotute/src/main/webapp/jarfiles/cos.jar"/>
+	<classpathentry kind="lib" path="C:/java programs/batch38workspace/Infotute/src/main/webapp/jarfiles/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/java programs/batch38workspace/Infotute/src/main/webapp/jarfiles/multipartrequest.jar"/>
+	<classpathentry kind="lib" path="C:/java programs/batch38workspace/Infotute/src/main/webapp/jarfiles/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="C:/java programs/batch38workspace/Infotute/src/main/webapp/jarfiles/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
